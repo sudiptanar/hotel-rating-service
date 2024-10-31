@@ -1,4 +1,4 @@
 derby.log
-/userservicedb
-/hotelservicedb
-/ratingservicedb
+userservicedb/
+hotelservicedb/
+ratingservicedb/
