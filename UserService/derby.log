@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Aug 28 16:55:31 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0191-98bb-d30a-0000087cdee0 
+on database directory memory:D:\Projects\Microservices\Services\UserService\6dac67f1-df95-469e-b67e-2a1e00817210 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@266474c2 
+Loaded from file:/C:/Users/sudip/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=GraalVM Community
+java.runtime.version=17.0.9+9-jvmci-23.0-b22
+user.dir=D:\Projects\Microservices\Services\UserService
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

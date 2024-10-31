@@ -1,0 +1,14 @@
+Sun Oct 27 16:45:36 IST 2024 : Apache Derby Network Server - 10.16.1.1 - (1901046) started and ready to accept connections on port 1531
+----------------------------------------------------------------
+Sun Oct 27 16:47:42 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0192-cdb0-4e31-00000ec00000 
+on database directory D:\Projects\Microservices\Services\ratingservicedb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6f94fa3e 
+Loaded from file:/C:/ExternalApps/db-derby-10.16.1.1-bin/lib/derby.jar
+java.vendor=GraalVM Community
+java.runtime.version=17.0.9+9-jvmci-23.0-b22
+user.dir=D:\Projects\Microservices\Services
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
